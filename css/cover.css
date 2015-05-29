@@ -60,6 +60,12 @@ body {
     padding: 30px;
 }
 
+.img-circle {
+    height: 90px;
+    width: 90px;
+    float: left;
+}
+
 /*
  * Header
  */
